@@ -1,4 +1,4 @@
-with open("data.txt") as f:
+with open("data.txt", "r") as f:
     print(f.read())
 
 
