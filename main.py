@@ -1,5 +1,5 @@
-with open("data.txt", "r") as f:
-    print(f.read())
+with open("data.txt", "r") as failas:
+    print(failas.read())
 
 
 print("Hello, world!")
